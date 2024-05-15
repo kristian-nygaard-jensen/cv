@@ -43,6 +43,16 @@ I try to give back to the community by writing technical blog posts and contribu
 [cols=">14,2,70,>.^~", grid="none", frame="none"]
 |===
 
+|Sat Mar 16 00:32:08 2024 - now
+|
+s|“Ulve til Sjælland”, Initiativtager
+|Sjælland/Dragør, Danmark
+
+|
+|
+2+a|
+Nogle venner, familien og jeg arbejder på at genskabe lidt balance i naturen.
+
 |12.2020 - now
 |
 s|“Twill by Maersk”, Lead Software Engineer
