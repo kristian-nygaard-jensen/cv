@@ -40,7 +40,7 @@ I try to give back to the community by writing technical blog posts and contribu
 
 == Erfaring
 
-[cols=">14,2,70,>.^~", grid="none", frame="none"]
+[cols=">14,2,50,>.^~", grid="none", frame="none"]
 |===
 
 |Sat Mar 16 00:32:08 2024 - now
