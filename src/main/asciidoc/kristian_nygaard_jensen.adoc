@@ -1,7 +1,7 @@
 = Curriculum vitae
 :hide-uri-scheme:
 
-== Personal details
+== Information
 
 [cols="20,40,>.^~", grid="none", frame="none"]
 |===
