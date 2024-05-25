@@ -63,17 +63,12 @@ fritidsaktiviteter.
 [cols=">14,2,50,>.^~", grid="none", frame="none"]
 |===
 
-|Sat Mar 16 00:32:08 2024 - now
+|05.2024 - now
 |
-s|“Ulve til Sjælland”, Initiativtager
+s|“FK Distribution”, Omdeler
 |Sjælland/Dragør, Danmark
 
-|
-|
-2+a|
-
-
-|Sat Mar 16 00:32:08 2024 - now
+|03.2024 - now
 |
 s|“Ulve til Sjælland”, Initiativtager
 |Sjælland/Dragør, Danmark
