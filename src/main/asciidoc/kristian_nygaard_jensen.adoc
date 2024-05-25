@@ -31,17 +31,39 @@ s|Kristian Nygaard Jensen
 
 == Introduktion
 
-I’m a result-driven, experienced Java developer, with high analytical skills, able to reconcile software craftsmanship with providing value to the customer.
-I strive for SOLID, well-tested, maintainable code.
-I’m highly motivated to learn and develop myself and not afraid to leave my comfort zone.
-I’m capable of working individually as well as in teams, competent to work in a multicultural, distributed environment.
-Always eager to help and mentor less experienced colleagues.
-I try to give back to the community by writing technical blog posts and contributing to open source projects.
+
+Mine 20 års erfaring som kodeabe har givet mig en bred vifte af
+færdigheder inden for softwareudvikling. I den første del af min
+karriere beskæftigede jeg mig primært med frontend og middleware, mens
+jeg i de seneste 8 år hovedsageligt har arbejdet med infrastruktur -
+containere, netværk, Kubernetes kort sagt cloud, og altid efter IaC
+metoden. Selvfølgelig påvirket af opgavestillers ønsker, men test har
+næsten altid være en integreret del af mit arbejde - primært Unit
+og API. Kun i et enkelt projekt har jeg arbejdet efter TDD, men mit
+ønske er altid at indføre dem på et så tidligt tidspunkt som
+muligt. Udover min erfaring har jeg to uddannelser inden for faget:
+datamatiker og bachelor i datalogi. Og i 2021 blev jeg certificeret
+"AWS Solutions Architect - Associate".  Langt den overvejende del af
+mit frontend arbejde har været web. I de øvrige lag har jeg arbejdet
+med SOAP, JSON, stored procedure, teletext/text-tv, telefonsystemer
+samt en række andre teknologier derudover. Min værktøjskasse kan siges
+både at være dyb og bred.
+
 
 == Erfaring
 
 [cols=">14,2,50,>.^~", grid="none", frame="none"]
 |===
+
+|Sat Mar 16 00:32:08 2024 - now
+|
+s|“Ulve til Sjælland”, Initiativtager
+|Sjælland/Dragør, Danmark
+
+|
+|
+2+a|
+
 
 |Sat Mar 16 00:32:08 2024 - now
 |
