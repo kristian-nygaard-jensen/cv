@@ -51,16 +51,17 @@ derudover. Min værktøjskasse kan siges både at være dyb og bred.
 
 Det seneste år har jeg bevæget mig i en lidt anden retning. Jeg har
 stadig arbejdet med IT, og er gået i gang med at skrive en bog til
-børn og unge om praktiske IT færdigheder. Derudover har jeg forsøgt at
-stable et naturgenopretnings/diversitetsprojekt på benene.
+børn og unge om praktiske IT færdigheder. Derudover har jeg blandt
+anden forsøgt at stable et naturgenopretnings/diversitetsprojekt på
+benene.
 
-Jeg savner dog de sociale aktiviteter som følger med at være en del af
-et team, og ønsker derfor at transformere de førnævnte projekter til
-fritidsaktiviteter.
+Jeg savner dog de daglige sociale aktiviteter som følger med at være
+en del af et udviklingsteam, og ønsker derfor at transformere de førnævnte
+projekter til fritidsaktiviteter.
 
 == Erfaring
 
-[cols=">14,2,50,>.^~", grid="none", frame="none"]
+[cols=">20,2,50,>.^~", grid="none", frame="none"]
 |===
 
 |05.2024 - now
@@ -77,22 +78,53 @@ s|“Ulve til Sjælland”, Initiativtager
 |
 2+a|
 Nogle venner, familien og jeg arbejder på at genskabe lidt balance i naturen.
-
-|12.2020 - now
+//Ny blok
+|02.2023 - 05.2023
 |
-s|“Twill by Maersk”, Lead Software Engineer
+s|"Jysk", DevOps
+| Brabrand
+
+|
+|
+2+a|
+- Implementering af pipelines i Jenkins.
+- Patching af Jenkins
+- Vedligeholde AWX projekter
+- _Jenkins, AWX, Ansible, Groovy, Bash_
+
+//Ny blok
+|02.2023 - 05.2023
+|
+s|"0071", DevOps
+| Vestlige øer
+
+|
+|
+2+a|
+- Implementering af publiceringsplatform.
+- _IPFS, JavaScript, HTML, Node.sj_
+
+//Ny blok
+|02.2023 - 05.2023
+|
+s|"0071", DevOps
+| Vestlige øer, Danmark
+
+|
+|
+2+a|
+- _IPFS, JavaScript, HTML, Node.sj_
+
+//Ny blok
+|12.2021 - 04.2022
+|
+s|“Ørsted”, DevOps
 |Gdańsk, Poland
 
 |
 |
 2+a|
-- Creating maritime transportation platform for small and medium enterprises.
-Core member of “post booking” team, responsible for handling customer tasks required after the booking was placed.
-- Mentoring less experienced colleagues, conducting tech and team-fit interviews.
-- Introduced and applied concept of custom Spring Boot starters to the company.
-This allowed extracting common patterns, configurations and practices to a dedicated libraries.
-- Led Spring Boot 3.x migration.
-- _JDK 17, Spring Boot, Spring Data, Spring Security, Spring Cloud, MongoDB, GCP Pub/Sub, Docker, Kubernetes, ~30 microservices_
+- _Azure, Azure DevOps_
 
 
 |02.2020 – 12.2020
