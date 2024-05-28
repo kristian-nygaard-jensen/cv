@@ -3,7 +3,7 @@
 
 == Information
 
-[cols="20,40,>.^~", grid="none", frame="none"]
+[cols="20,30,>.^~", grid="none", frame="none"]
 |===
 |Name:
 s|Kristian Nygaard Jensen
@@ -63,13 +63,12 @@ projekter til fritidsaktiviteter.
 
 [cols=">20,2,50,>.^~", grid="none", frame="none"]
 |===
-
-|05.2024 - now{nbsp}{nbsp}{nbsp}{nbsp}{nbsp}{nbsp}
+|05.2024 - now
 |
 s|“FK Distribution”, Omdeler
 |Sjælland/Dragør, Danmark
 
-|03.2024 - now{nbsp}{nbsp}{nbsp}{nbsp}{nbsp}{nbsp}
+|03.2024 - now
 |
 s|“Ulve til Sjælland”, Initiativtager
 |Sjælland/Dragør, Danmark
@@ -127,7 +126,7 @@ s|“Ørsted”, DevOps
 - _Azure, Azure DevOps_
 
 
-|02.2020 – 12.2020
+|02.2020 - 12.2020
 |
 s|“Jit Team” at “LPP SA”, Technical Lead
 |Gdańsk, Poland
@@ -139,7 +138,7 @@ s|“Jit Team” at “LPP SA”, Technical Lead
 - Mentoring a team of 4 developers: ensuring high code quality and propagating best coding practices.
 - _JDK 14, Spring Boot, Spring Data, Mule ESB, Oracle, Docker_
 
-|05.2018 – 02.2020
+|05.2018 - 02.2020
 |
 s|“Yameo”, Senior Software Developer
 |Gdańsk, Poland
