@@ -64,12 +64,12 @@ projekter til fritidsaktiviteter.
 [cols=">20,2,50,>.^~", grid="none", frame="none"]
 |===
 
-|05.2024 - now
+|05.2024 - now{nbsp}{nbsp}{nbsp}{nbsp}{nbsp}{nbsp}
 |
 s|“FK Distribution”, Omdeler
 |Sjælland/Dragør, Danmark
 
-|03.2024 - now
+|03.2024 - now{nbsp}{nbsp}{nbsp}{nbsp}{nbsp}{nbsp}
 |
 s|“Ulve til Sjælland”, Initiativtager
 |Sjælland/Dragør, Danmark
