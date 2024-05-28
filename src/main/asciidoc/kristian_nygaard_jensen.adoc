@@ -120,7 +120,7 @@ s|SRE, COOP/Knowit
 |10.2021 - 02.2021
 |
 s|Intern konsulent, Cybercom
-|København
+|Frederiksberg
 
 |
 |
@@ -132,13 +132,26 @@ s|Intern konsulent, Cybercom
 |03.2020 - 09.2020
 |
 s|Chefkonsulent, UFST
-|København
+|Frederiksberg
 
 |
 |
 2+a|
 - Implementering af shared services på Kubernetes.
-- _EKS, Kubernetes, Terraform, Jenkins, Groovy, SonarQube, Bash, Pair programming, Docker, CentOS, SAFe_
+- _GitOps, EKS, Kubernetes, Terraform, Jenkins, Groovy, SonarQube, Bash, Pair programming, Docker, CentOS, SAFe_
+
+//Ny blok
+|03.2017 - 03.2020
+|
+s|Chefkonsulent, UFST
+|København/Frederiksberg
+
+|
+|
+2+a|
+- Implementering af shared services på AWS platformen.
+- Implementering af services på AWS platformen(dokumentkø, postgres).
+- _SNS, SQS, Terraform, Terratest, GO lang, Jenkins, Groovy, Bash, Docker, CentOS, SAFe_
 |===
 
 
