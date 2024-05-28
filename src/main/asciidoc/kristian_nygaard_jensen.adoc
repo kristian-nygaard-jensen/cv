@@ -63,25 +63,26 @@ projekter til fritidsaktiviteter.
 
 [cols=">20,2,50,>.^~", grid="none", frame="none"]
 |===
-|05.2024 - now
+|05.2024 - Nu
 |
-s|“FK Distribution”, Omdeler
-|Sjælland/Dragør, Danmark
+s|Omdeler, FK Distribution
+|Dragør
 
-|03.2024 - now
+|03.2024 - Nu
 |
-s|“Ulve til Sjælland”, Initiativtager
-|Sjælland/Dragør, Danmark
+s|Initiativtager, Ulve til Sjælland
+|Sjælland+Dragør
 
 |
 |
 2+a|
 Nogle venner, familien og jeg arbejder på at genskabe lidt balance i naturen.
+
 //Ny blok
 |02.2023 - 05.2023
 |
-s|"Jysk", DevOps
-| Brabrand
+s|DevOps, Jysk
+|Brabrand
 
 |
 |
@@ -95,7 +96,7 @@ s|"Jysk", DevOps
 |02.2023 - 05.2023
 |
 s|"0071", DevOps
-| Vestlige øer
+|Sjælland+Dragør
 
 |
 |
@@ -104,146 +105,44 @@ s|"0071", DevOps
 - _IPFS, JavaScript, HTML, Node.sj_
 
 //Ny blok
-|02.2023 - 05.2023
-|
-s|"0071", DevOps
-| Vestlige øer, Danmark
-
-|
-|
-2+a|
-- _IPFS, JavaScript, HTML, Node.sj_
-
-//Ny blok
 |12.2021 - 04.2022
 |
-s|“Ørsted”, DevOps
-|Gdańsk, Poland
+s|SRE, COOP/Knowit
+|Albertslund
 
 |
 |
 2+a|
-- _Azure, Azure DevOps_
+- Implementerede logging-infrastruktur.
+- _Rancher, Cerebro, Elasticsearch / Kibana, Fluentd, Terraform_
 
-
-|02.2020 - 12.2020
+//Ny blok
+|10.2021 - 02.2021
 |
-s|“Jit Team” at “LPP SA”, Technical Lead
-|Gdańsk, Poland
-
-|
-|
-2+a|
-- Member of an integration team - connecting various systems to provide complex solutions for company key areas: logistics, supply chain and merchandise management.
-- Mentoring a team of 4 developers: ensuring high code quality and propagating best coding practices.
-- _JDK 14, Spring Boot, Spring Data, Mule ESB, Oracle, Docker_
-
-|05.2018 - 02.2020
-|
-s|“Yameo”, Senior Software Developer
-|Gdańsk, Poland
+s|Intern konsulent, Cybercom
+|København
 
 |
 |
 2+a|
-- Design and implementation of B2C real-time video solutions - used with success in various types of companies: insurance, bank, kitchenware.
-- In charge of keeping high quality of the solution: covering critical paths with integration tests, continuous refactoring and introducing ADR (Architecture Decision Records) to keep the system maintainable.
+- Infrastrukture research.
+- _AWS, CDK, Kubernetes, Python, TypeScript, Terraform_
 
-- _JDK 11, Spring Boot, Spring Data, Spring Cloud, STOMP over WebSockets, PostgreSQL, jOOQ, Angular 7_
-
-|01.2018 – 03.2018
+//Ny blok
+|03.2020 - 09.2020
 |
-s|System implementation for “Rehmedis – Paweł Bednarski”
-|Gdańsk, Poland
-
-|
-|
-2+a|
-- Designed and implemented of an appointment reminder system, which integrates Google Calendar with external SMS Text service provider.
-
-- _Kotlin, AWS Stack: Lambda, Simple Email Service, SQS_
-
-|11.2014 – 05.2018
-|
-s|“Neoteric”, Lead Software Developer
-|Gdańsk, Poland
+s|Chefkonsulent, UFST
+|København
 
 |
 |
 2+a|
-- Migrated from an old, mixed stack (Jetty, Jersey, Guice) to a Spring-based: Spring Boot, Spring Framework, Spring Data (MongoDB), Spring AMQP (RabbitMQ), Spring Cloud, Spring Security, Java 8, ELK centralized logging.
-- Authored a set of Spring Boot starters (https://github.com/neoteric-eu/neo-starters) which encapsulate team best practices and common solutions.
-- Mentored a team of 3-5 developers.
-- Developed several components, such as: digital document manager and task manager.
-- Introduced versioning and fully-fledged CI / CD solution for backend services (Maven, Jenkins, Git Flow, Nexus, SonarQube, Docker).
-
+- Implementering af shared services på Kubernetes.
+- _EKS, Kubernetes, Terraform, Jenkins, Groovy, SonarQube, Bash, Pair programming, Docker, CentOS, SAFe_
 |===
 
-[cols=">14,2,70,>.^~", grid="none", frame="none"]
-|===
-|08.2016 – 01.2018
-|
-s|“Neoteric” at “Jeppesen Poland”, Lead Software Developer
-|Gdańsk, Poland
 
-|
-|
-2+a|
-- Designed scalable system for a flight disruption management. Using microservice architecture with asynchronous communication for backend services talking with AngularJS frontend application (RabbitMQ, MongoDB, STOMP over WebSockets). Backend services are based on Spring ecosystem: Spring Boot, Spring Framework, Spring Cloud, Spring Integration.
-- Mentored a team of 5-7 developers.
-- Prepared code infrastructure for the system components.
-- Introduced versioning and CI solution using Jenkinsfile (Maven, Jenkins, Artifactory, SonarQube, BitBucket, Slack).
-- Introduced versioning and CI solution for R&D team (Gradle, Jenkins, Archiva).
-- Designed and implemented refactoring process to encapsulate third party service (data provider) usage among several services for a potential technology switch (JEE 7, Wildfly 10).
 
-|09.2008 – 10.2014
-|
-s|“Acxiom GSC”,  Senior Solutions Developer
-|Gdańsk, Poland
-
-|
-|
-2+a|
-- Delivered web services (SOAP, RESTful) to an automotive industry client (JEE, JBoss, Hibernate). Aim of the project was to gradually switch from data warehouse batch processing to real-time systems.
-- Converted monolithic entity into a modularized, versioned, maintainable system.
-- Helped the team in delivering fast-feedback, high-quality code (Jenkins, Nexus, SonarQube), with extensive unit and integration test coverage (TestNG, Mockito, OpenEJB).
-- Introduced Mule ESB for systems integration. By combining existing services (SOAP, RESTful) along with data warehouse and Websphere MQ, provided more complex solutions to the client.
-
-- Designed and implemented an internal web application (JSF + IceFaces), which was used for gathering information about tools used inside other company’s teams / accounts.
-
-- Created GUI (Swing + JDBC) for existing data generator C script. Used internally by other accounts, when vast volume of test datasets is needed.
-
-|04.2008 – 06.2008
-|
-s|“YourVision”,  Java Developer
-|Gdańsk, Poland
-
-|
-|
-2+a|
-- Developed web-based customer relationship management system using JEE technologies such as: EJB 3, JPA and JSF.
-
-|08.2007 – 08.2008
-|
-s|“Zensar Technologies Ltd”,  Software Consultant
-|Gdańsk, Poland
-
-|
-|
-2+a|
-- Designed and developed several web applications using J2EE technologies.
-
-|04.2007 – 08.2007
-|
-s|“Zensar Technologies Ltd”,  Internship
-|Pune, India
-
-|
-|
-2+a|
-- Participated in training on J2SE, J2EE technologies, UML, XML and Project Management. Carried out a work management system using J2EE, Spring Framework (MVC) and Hibernate.
-
-|===
 
 == Education
 
