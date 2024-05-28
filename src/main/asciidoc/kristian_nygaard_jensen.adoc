@@ -138,7 +138,7 @@ s|Chefkonsulent, UFST
 |
 2+a|
 - Implementering af shared services på Kubernetes.
-- _GitOps, EKS, Kubernetes, Terraform, Jenkins, Groovy, SonarQube, Bash, Pair programming, Docker, CentOS, SAFe_
+- _GitOps(Atlantis), EKS, Kubernetes, Terraform, Jenkins, Groovy, SonarQube, Bash, Pair programming, Docker, CentOS, SAFe_
 
 //Ny blok
 |03.2017 - 03.2020
