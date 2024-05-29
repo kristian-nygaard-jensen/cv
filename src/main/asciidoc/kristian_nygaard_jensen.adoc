@@ -232,7 +232,19 @@ s|Web udvikler, MOC Systems
 - SMK
 - Venstre
 - Red barnet
-- _PHP, MySQL, CSS, HTML, JavaScript_
+- _TypeScript, PHP, MySQL, CSS, HTML, JavaScript_
+
+//Ny blok
+|01.2006 - 01.2008
+|
+s|Web udvikler, Topdanmark
+|Ballerup
+
+|
+|
+2+a|
+- Egenudviklet MVC system mellem TYPO3 og salgsplatform.
+- _PHP, MySQL_
 
 //Ny blok
 |xx.2015 - xx.2016
