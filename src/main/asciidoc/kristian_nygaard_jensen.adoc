@@ -93,7 +93,7 @@ s|DevOps, Jysk
 - _Jenkins, AWX, Ansible, Groovy, Bash_
 
 //Ny blok
-|02.2023 - 05.2023
+|02.2023 - nu
 |
 s|"0071", DevOps
 |Sjælland+Dragør
@@ -128,6 +128,8 @@ s|Intern konsulent, Cybercom
 - Infrastrukture research.
 - _AWS, CDK, Kubernetes, Python, TypeScript, Terraform_
 
+4+a| De følgende optegnelser fra 2015 til 2020 er den samme ansættelse, men da indholdet er så varieret har jeg valgt at splittet ansættelsen op i projekter
+
 //Ny blok
 |03.2020 - 09.2020
 |
@@ -138,6 +140,8 @@ s|Chefkonsulent, UFST
 |
 2+a|
 - Implementering af shared services på Kubernetes.
+- Jenkins/Jenkins pipelines
+- SonarQube
 - _GitOps(Atlantis), EKS, Kubernetes, Terraform, Jenkins, Groovy, SonarQube, Bash, Pair programming, Docker, CentOS, SAFe_
 
 //Ny blok
@@ -152,6 +156,69 @@ s|Chefkonsulent, UFST
 - Implementering af shared services på AWS platformen.
 - Implementering af services på AWS platformen(dokumentkø, postgres).
 - _SNS, SQS, Terraform, Terratest, GO lang, Jenkins, Groovy, Bash, Docker, CentOS, SAFe_
+
+//Ny blok
+|11.2016 - 02.2020
+|
+s|Chefkonsulent, Skatteministeriet
+|København
+
+|
+|
+2+a|
+- WEB GUI
+- _ClojureScript, React, Reagent, Agile udvikling_
+
+//Ny blok
+|08.2016 - 10.2016
+|
+s|Chefkonsulent, Skatteministeriet
+|København
+
+|
+|
+2+a|
+- Dataimport into DataStax Graph.
+- _Groovy, CSV, Graph DB, Gremlin, Agile udvikling_
+
+//Ny blok
+|01.2015 - 01.2016
+|
+s|Chefkonsulent, Skatteministeriet
+|København
+
+|
+|
+2+a|
+- On-prem Cloud.
+- _Mesos, Marathon, Ansible, KVM, VMware, CentOS, Ubuntu, HAProxy, NGINX, Agile udvikling_
+
+//Ny blok
+|08.2014 - 08.2015
+|
+s|Systemudvikler, youSee/TDC
+|København
+
+|
+|
+2+a|
+- Produktkatalog med integration til salgsplatform
+- _Clojure, JVM, WSDL, SOAP, BDD, TDD, Apache CXF, HAProxy, NGINX, Agile udvikling_
+
+//Ny blok
+|xx.2015 - xx.2016
+|
+s|TITEL, ORGANISATION
+|STED
+
+|
+|
+2+a|
+- TEXT
+- __
+
+
+
 |===
 
 
