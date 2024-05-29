@@ -206,6 +206,35 @@ s|Systemudvikler, youSee/TDC
 - _Clojure, JVM, WSDL, SOAP, BDD, TDD, Apache CXF, HAProxy, NGINX, Agile udvikling_
 
 //Ny blok
+|01.2012 - 08.2014
+|
+s|Web developer, TV2
+|København
+
+|
+|
+2+a|
+- Implementering af hjemmeside i Drupal.
+- Integration til Teletext
+- Breakingbar
+- _PHP, JavaScript, Drupal, NodeJs, teletext, MySQL, HTML, CSS_
+
+//Ny blok
+|01.2008 - 10.2011
+|
+s|Web udvikler, MOC Systems
+|København
+
+|
+|
+2+a|
+- Implementering af hjemmesider i TYPO3.
+- SMK
+- Venstre
+- Red barnet
+- _PHP, MySQL, CSS, HTML, JavaScript_
+
+//Ny blok
 |xx.2015 - xx.2016
 |
 s|TITEL, ORGANISATION
@@ -216,8 +245,6 @@ s|TITEL, ORGANISATION
 2+a|
 - TEXT
 - __
-
-
 
 |===
 
