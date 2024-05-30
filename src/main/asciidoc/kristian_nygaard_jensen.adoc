@@ -282,6 +282,10 @@ s|Systemudvikler, AK Techotel
 - SOAP interface til hospital patient hotel
 - _Delphi, MSSQL, SOAP_
 
+|===
+<<<
+[cols=">20,2,50,>.^~", grid="none", frame="none"]
+|===
 //Ny blok
 |01.2003 - 12.2004
 |
@@ -341,35 +345,42 @@ s|Studiejob, OMD Denmark
 [cols=">14,2,70,>.^~", grid="none", frame="none"]
 |===
 
-|2003 - 2008
+|2002 - 2008
 |
-s|University of Gdańsk, Department of Management,
-Faculty of Computing
+s|Bachelor i datalogi, RUC
+|Roskilde
 
-|Sopot, Poland
+|2000 - 2002
+|
+s|Datamatiker, Niels Brock
+|København
 
+|1997 - 1999
 |
-|
-2+a|
-- Master thesis: “Information System Design for master thesis repository based on DocBook Technology", grade: 5 (highest grade)
-- Internship at Institute of Meteorology and Water Management: Designed and built a database of  IMGW publications using MS Access with VBA support.
+s|Svagstrømsingeniør (ikke afsluttet), IHK
+|Ballerup
 
-|1999 – 2003
-|
-s|3rd High School in Gdańsk
-|Gdańsk, Poland
+// |
+// |
+// 2+a|
+// - Master thesis: “Information System Design for master thesis repository based on DocBook Technology", grade: 5 (highest grade)
+// - Internship at Institute of Meteorology and Water Management: Designed and built a database of  IMGW publications using MS Access with VBA support.
 
-|
-|
-2+a|
-- Mathematics, Physics and Computer Science class
+// |1999 – 2003
+// |
+// s|3rd High School in Gdańsk
+// |Gdańsk, Poland
+
+// |
+// |
+// 2+a|
+// - Mathematics, Physics and Computer Science class
 
 |===
 
 == Certificates
 
-- Oracle Certified Professional, Java EE 5 Business Component Developer (2012)
-- Sun Certified Programmer for the Java 2 Platform, Standard Edition 6.0 (2011)
+- AWS Certified Solutions Architect - Associate (2021)
 
 <<<
 
