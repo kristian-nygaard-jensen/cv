@@ -77,7 +77,7 @@ s|Initiativtager, Ulve til Sjælland
 |
 2+a|
 Nogle venner, familien og jeg arbejder på at genskabe lidt balance i naturen.
-
+//<<< Førte til noget mærkeligt
 //Ny blok
 |02.2023 - 05.2023
 |
@@ -244,19 +244,85 @@ s|Web udvikler, Topdanmark
 |
 2+a|
 - Egenudviklet MVC system mellem TYPO3 og salgsplatform.
-- _PHP, MySQL_
+- _PHP, MySQL, TYPO3_
 
 //Ny blok
-|xx.2015 - xx.2016
+|01.2005 - 01.2006
 |
-s|TITEL, ORGANISATION
-|STED
+s|Systemudvikler, WebmindIT
+|København
 
 |
 |
 2+a|
-- TEXT
-- __
+- Callcenterløsning til salg af aviser.
+- Interface i XULRunner
+- Plugin til XULRunner med integration til TAPICOM
+- Administrationsmodul
+- _PHP, PHPUnit, Symfony, C#(Mono), TAPICOM/Avaya PBX Office phoner, XULRunner, TDD_
+
+//Ny blok
+|01.2004 - 12.2005
+|
+s|Systemudvikler, AK Techotel
+|København
+
+|
+|
+2+a|
+- Statistik modul til Picasso hotel CRM system
+- Xquery interface til eniro
+- SOAP interface til hospital patient hotel
+- _Delphi, MSSQL, SOAP_
+
+//Ny blok
+|01.2003 - 12.2004
+|
+s|Systemudvikler, CBB mobil
+|København
+
+|
+|
+2+a|
+- Grafisk forbrugsoversigt
+- Roaming blokkering
+- _J2EE/struts, ASP, TYPO3, JavaScript_
+
+//Ny blok
+|01.2002 - 12.2003
+|
+s|Web developer, Aider, eget firma
+|København
+
+|
+|
+2+a|
+- Hjemmesider
+- _webEdition(CMS), PHP, JavaScript_
+
+//Ny blok
+|01.2001 - 12.2002
+|
+s|Studiejob, OMD Denmark
+|København
+
+|
+|
+2+a|
+- Udviklet apache log analysering og fremlægningsprogram.
+- _C++, PL SQL_
+
+//Ny blok
+// |xx.2015 - xx.2016
+// |
+// s|TITEL, ORGANISATION
+// |STED
+
+// |
+// |
+// 2+a|
+// - TEXT
+// - __
 
 |===
 
