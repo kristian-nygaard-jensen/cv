@@ -78,6 +78,10 @@ s|Initiativtager, Ulve til Sjælland
 2+a|
 Nogle venner, familien og jeg arbejder på at genskabe lidt balance i naturen.
 //<<< Førte til noget mærkeligt
+|===
+
+[cols=">20,2,50,>.^~", grid="none", frame="none"]
+|===
 //Ny blok
 |02.2023 - 05.2023
 |
@@ -180,7 +184,10 @@ s|Chefkonsulent, Skatteministeriet
 2+a|
 - Dataimport into DataStax Graph.
 - _Groovy, CSV, Graph DB, Gremlin, Agile udvikling_
-
+|===
+<<<
+[cols=">20,2,50,>.^~", grid="none", frame="none"]
+|===
 //Ny blok
 |01.2015 - 01.2016
 |
