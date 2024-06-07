@@ -384,46 +384,30 @@ s|Svagstrømsingeniør (ikke afsluttet), IHK
 
 <<<
 
-== Programming skills
+== Færdigheder
 
 [cols=">20h,2,~", grid="none", frame="none"]
 |===
 
-|General:
+|Generelt:
 |
-|OOP, design patterns, microservices architecture
+|Softwareudvikling, infrastruktur, test
 
 |Languages:
 |
-|Java, Kotlin, SQL
+|PHP, Terraform, Ansible, JavaScript, HTML, CSS, LISP
 
 |Databases:
 |
-|MongoDB, PostgreSQL, Oracle
+|MySQL, MSSQL, Graph
 
 |Message brokers:
 |
-|GCP Pub/Sub, RabbitMQ, ActiveMQ
+|IPFS, git, Redis
 
-|Spring ecosystem:
+|Test:
 |
-|Spring Framework, Spring Boot, Spring Data, Spring Security, Spring Integration, Spring AMQP, Spring Session, Spring Modulith
-
-|Spring Cloud ecosystem:
-|
-|Spring Cloud Stream, Spring Cloud OpenFeign, Spring Cloud Function, Spring Cloud Sleuth, Spring Cloud Config
-
-|Testing:
-|
-|Junit 5, TestNG, Mockito, AssertJ, Spring Test Framework, WireMock, Testcontainers, Awaitility
-
-|Java EE:
-|
-|EJB, JPA, JAX-WS, JAX-RS, JMS, Servlets
-
-|Application servers:
-|
-|Tomcat, Jetty, Wildfly, JBoss
+|PGPUnit, Terratest, Selenium
 
 |Observability:
 |
