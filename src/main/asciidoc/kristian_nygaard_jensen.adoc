@@ -5,17 +5,17 @@
 
 [cols="20,30,>.^~", grid="none", frame="none"]
 |===
-|Name:
+|Navn:
 s|Kristian Nygaard Jensen
 .7+a|image::https://bafybeifil2ubojrl2zztizffgv6qy6bsf6nfb7oc3afjf5sob2rc5di6ia.ipfs.w3s.link/hoved-circle-lille.png[align='right', pdfwidth="80"]
 
-|Address:
+|Adresse:
 |Bachersmindevej 11
 
-|Date of birth:
+|Fødselsdato:
 |1978 08 21
 
-|Telephone:
+|Telefon:
 |004552699443
 
 |Email:
