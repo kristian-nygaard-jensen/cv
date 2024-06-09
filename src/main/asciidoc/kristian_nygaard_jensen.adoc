@@ -340,7 +340,7 @@ s|Studiejob, OMD Denmark
 
 
 
-== Education
+== Uddannelser
 
 [cols=">14,2,70,>.^~", grid="none", frame="none"]
 |===
@@ -378,7 +378,7 @@ s|Svagstrømsingeniør (ikke afsluttet), IHK
 
 |===
 
-== Certificates
+== Certificater
 
 - AWS Certified Solutions Architect - Associate (2021)
 
@@ -386,18 +386,18 @@ s|Svagstrømsingeniør (ikke afsluttet), IHK
 
 == Færdigheder
 
-[cols=">20h,2,~", grid="none", frame="none"]
+[cols=">25h,2,~", grid="none", frame="none"]
 |===
 
 |Generelt:
 |
 |Softwareudvikling, infrastruktur, test
 
-|Languages:
+|Computer sprog:
 |
 |PHP, Terraform, Ansible, JavaScript, HTML, CSS, LISP
 
-|Databases:
+|Databaser:
 |
 |MySQL, MSSQL, Graph
 
@@ -411,28 +411,22 @@ s|Svagstrømsingeniør (ikke afsluttet), IHK
 
 |Observability:
 |
-|Micrometer, Prometheus, Grafana, Loki, Zipkin, ELK stack
+|Prometheus, Grafana, ELK stack
 
-|Other:
+|Udviklingsværktøjer:
 |
-|Resilience4j, Caffeine, Shedlock,  MapStruct, Lombok, Guava, Hibernate, jOOQ, Mule ESB
-
-|Development tools:
-|
-|Maven, Gradle, IntelliJ IDEA, Git, GitHub, Gitlab, Jira, Confluence, Jenkins, Nexus, Sentry, SonarQube, Docker, Kubernetes, Asciidoc
+|Emacs, Git, Jenkins, Make, Docker, Kubernetes, Cargo
 
 |Operating systems:
 |
-|Linux (Ubuntu, Fedora), Windows
+|Linux (Debian/Ubuntu, CentOS, Fedora), Windows, QDOS
 
 |===
 
-== Language knowledge
+== Sprogkundskaber
 
-- Polish – native
-- English – spoken and written - fluent
-
-== Additional information
-
-- Driving license (category B)
-- Personal interests: photography (https://ontherun.pl), traveling, squash, cycling, board games
+- Dansk – Modersmål
+- Engelsk – Tale og skrift
+- Norsk/Svensk - Forstår
+- Tysk - Folkeskole
+- Persisk - Begynder
