@@ -132,7 +132,7 @@ s|Intern konsulent, Cybercom
 - Infrastrukture research.
 - _AWS, CDK, Kubernetes, Python, TypeScript, Terraform_
 
-4+a| De følgende optegnelser fra 2015 til 2020 er den samme ansættelse, men da indholdet er så varieret har jeg valgt at splittet ansættelsen op i projekter
+4+a| De følgende optegnelser fra 2015 til 2020 er den samme ansættelse "Det nye ejendomsvurderingssystem", men da indholdet er så varieret har jeg valgt at splittet ansættelsen op i projekter
 
 //Ny blok
 |03.2020 - 09.2020
