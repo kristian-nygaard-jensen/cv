@@ -198,7 +198,7 @@ s|Chefkonsulent, Skatteministeriet
 |
 2+a|
 - On-prem Cloud.
-- _Mesos, Marathon, Ansible, KVM, VMware, CentOS, Ubuntu, HAProxy, NGINX, Agile udvikling_
+- _Mesos, Marathon, Ansible, KVM, VMware, CentOS, Ubuntu, Jetty, HAProxy, NGINX, Apache, Agile udvikling_
 
 //Ny blok
 |08.2014 - 08.2015
@@ -210,7 +210,7 @@ s|Systemudvikler, youSee/TDC
 |
 2+a|
 - Produktkatalog med integration til salgsplatform
-- _Clojure, JVM, WSDL, SOAP, BDD, TDD, Apache CXF, HAProxy, NGINX, Agile udvikling_
+- _Clojure, JVM, WSDL, SOAP, BDD, TDD, Apache CXF, Jetty, Agile udvikling,_
 
 //Ny blok
 |01.2012 - 08.2014
@@ -297,7 +297,7 @@ s|Systemudvikler, CBB mobil
 2+a|
 - Grafisk forbrugsoversigt
 - Roaming blokkering
-- _J2EE/struts, ASP, TYPO3, JavaScript_
+- _J2EE/struts, ASP, TYPO3, JavaScript, Resin_
 
 //Ny blok
 |01.2002 - 12.2003

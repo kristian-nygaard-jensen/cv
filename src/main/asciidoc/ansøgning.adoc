@@ -1,1 +1,16 @@
 Kære STIL,
+
+En ven pegede mig i retning af stillingen som teknikker til OpenSource
+produkter, og jeg blev meget interesseret. Først og fremmest fordi jeg selv er
+engeret i OpenSource og fordi min profil passer særdeles godt til jobbet. Hos
+UFST har jeg deployet Postgres på AWS plaformen, hos Jysk har jeg arbejdet med
+Ansible og AWX Tower. Før "Det nye ejendomsvurderingssystem" blev rykket ud i en
+public cloud var jeg med til, ved brug af Ansible, at bygge en private cloud i
+Skat IT. Denne løsning var bygget på Mesos/Marathon, og inden omlægningen af
+cloud platformen byggede jeg en private cloud POC i OKD/openstack.
+Som Servlet Container/Application Server har jeg benyttet Jetty og Resin, og har
+desuden arbejdet med HAProxy, NGINX og Apache. 
+
+Med venlig hilsen
+
+Kristian Nygaard Jensen
