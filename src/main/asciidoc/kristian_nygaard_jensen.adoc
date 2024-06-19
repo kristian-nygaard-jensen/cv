@@ -99,7 +99,7 @@ s|DevOps, Jysk
 //Ny blok
 |02.2023 - nu
 |
-s|"0071", DevOps
+s|Softwareudvikler, "0071"
 |Sjælland+Dragør
 
 |
@@ -121,7 +121,7 @@ s|SRE, COOP/Knowit
 - _Rancher, Cerebro, Elasticsearch / Kibana, Fluentd, Terraform_
 
 //Ny blok
-|10.2021 - 02.2021
+|10.2020 - 02.2021
 |
 s|Intern konsulent, Cybercom
 |Frederiksberg
