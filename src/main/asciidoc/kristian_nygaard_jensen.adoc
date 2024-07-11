@@ -109,7 +109,7 @@ s|Softwareudvikler, "0071"
 |
 2+a|
 - Implementering af publiceringsplatform.
-- _IPFS, JavaScript, HTML, Node.sj_
+- _IPFS, JavaScript, HTML, Node.sj, perl_
 
 //Ny blok
 |12.2021 - 04.2022
