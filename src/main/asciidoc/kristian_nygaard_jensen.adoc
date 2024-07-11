@@ -433,3 +433,4 @@ s|Svagstrømsingeniør (ikke afsluttet), IHK
 - Norsk/Svensk - Forstår
 - Tysk - Folkeskole
 - Persisk - Begynder
+- Forth - Begynder
