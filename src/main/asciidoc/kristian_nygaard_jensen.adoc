@@ -9,6 +9,9 @@
 s|Kristian Nygaard Jensen
 .7+a|image::https://bafybeifil2ubojrl2zztizffgv6qy6bsf6nfb7oc3afjf5sob2rc5di6ia.ipfs.w3s.link/hoved-circle-lille.png[align='right', pdfwidth="80"]
 
+|Seneste titel
+| Filosofisk forskerarkitektjournalistspasserpsykopatkodeabepolitiker
+
 |Adresse:
 |Bachersmindevej 11
 
@@ -109,7 +112,7 @@ s|Softwareudvikler, "0071"
 |
 2+a|
 - Implementering af publiceringsplatform.
-- _IPFS, JavaScript, HTML, Node.sj_
+- _IPFS, JavaScript, HTML, Node.sj, perl_
 
 //Ny blok
 |12.2021 - 04.2022
