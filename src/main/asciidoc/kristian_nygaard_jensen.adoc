@@ -351,10 +351,16 @@ s|Studiejob, OMD Denmark
 [cols=">14,2,70,>.^~", grid="none", frame="none"]
 |===
 
+
 |2002 - 2008
 |
 s|Bachelor i datalogi, RUC
 |Roskilde
+
+|2005
+|
+s| Udvidet førstehjælp
+| Vordingborg
 
 |2000 - 2002
 |
