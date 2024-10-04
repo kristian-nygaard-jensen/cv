@@ -9,8 +9,6 @@
 s|Kristian Nygaard Jensen
 .7+a|image::https://bafybeifil2ubojrl2zztizffgv6qy6bsf6nfb7oc3afjf5sob2rc5di6ia.ipfs.w3s.link/hoved-circle-lille.png[align='right', pdfwidth="80"]
 
-|Seneste titel:
-| Aggresiv sis
 
 |Adresse:
 |Bachersmindevej 11
@@ -371,6 +369,11 @@ s|Datamatiker, Niels Brock
 |
 s|Svagstrømsingeniør (ikke afsluttet), IHK
 |Ballerup
+
+|90 91 92
+|
+s| Livredning
+| Hørsholm
 
 // |
 // |
