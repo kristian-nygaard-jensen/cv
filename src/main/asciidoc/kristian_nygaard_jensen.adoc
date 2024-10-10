@@ -67,10 +67,10 @@ projekter til fritidsaktiviteter.
 
 [cols=">20,2,50,>.^~", grid="none", frame="none"]
 |===
-|05.2024 - Nu
+|09.2024 - Nu
 |
-s|Omdeler, FK Distribution
-|Dragør
+s|Systemadministrator, Væksthuset
+|København S
 
 |03.2024 - Nu
 |
