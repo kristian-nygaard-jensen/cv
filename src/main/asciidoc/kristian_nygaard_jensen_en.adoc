@@ -5,25 +5,25 @@
 
 [cols="20,30,>.^~", grid="none", frame="none"]
 |===
-|Navn:
+|Name:
 s|Kristian Nygaard Jensen
 .7+a|image::https://bafybeifil2ubojrl2zztizffgv6qy6bsf6nfb7oc3afjf5sob2rc5di6ia.ipfs.w3s.link/hoved-circle-lille.png[align='right', pdfwidth="80"]
 
 
-|Adresse:
+|Address:
 |Bachersmindevej 11
 
-|Fødselsdato:
+|Date of birth:
 |1978 08 21
 
-|Telefon:
+|Phone:
 |004552699443
 
 |Email:
 |knj.1978@yahoo.com
 |===
 
-== Introduktion
+== Introduction
 
 My 20 years of experience as a programmer has given me a wide range of skills in
 software development. In the early part of my career, I worked primarily with front-end and middleware
@@ -46,7 +46,7 @@ can be said to be both deep and wide.
 |===
 |09.2024 - Nu
 |
-s|Systemadministrator, Væksthuset
+s|System administrator, Væksthuset
 |København S
 |===
 
@@ -61,21 +61,21 @@ s|DevOps, Jysk
 |
 |
 2+a|
-- Implementering af pipelines i Jenkins.
-- Patching af Jenkins
-- Vedligeholde AWX projekter
+- Implementing pipelines in Jenkins.
+- Patching of Jenkins
+- Maintaining AWX projects
 - _Jenkins, AWX, Ansible, Groovy, Bash_
 
 //Ny blok
 |02.2023 - nu
 |
-s|Softwareudvikler, "0071"
-|Sjælland+Dragør
+s|Software developer, "0071"
+|Dragør
 
 |
 |
 2+a|
-- Implementering af publiceringsplatform.
+- Implementing a publishing platform.
 - _IPFS, JavaScript, HTML, Node.sj, perl_
 
 //Ny blok
@@ -87,7 +87,7 @@ s|SRE, COOP/Knowit
 |
 |
 2+a|
-- Implementerede logging-infrastruktur.
+- Deployed logging infrastructure.
 - _Rancher, Cerebro, Elasticsearch / Kibana, Fluentd, Terraform_
 
 //Ny blok
