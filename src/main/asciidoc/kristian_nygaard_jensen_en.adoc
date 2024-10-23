@@ -25,24 +25,22 @@ s|Kristian Nygaard Jensen
 
 == Introduktion
 
+My 20 years of experience as a programmer has given me a wide range of skills in
+software development. In the early part of my career, I worked primarily with front-end and middleware
+middleware, while for the past 8 years I have mainly worked with infrastructure - containers, networks
+containers, networks, Kubernetes, in short cloud, and always following the IaC method. Of course influenced by
+client's wishes, but testing has almost always been an integral part of my work - primarily
+Unit and API. Only in one project have I worked according to TDD, but my desire is always to introduce
+them as early as possible and I consider them part of the documentation.
+In addition to my experience, I have two degrees in the field: computer scientist and bachelor's degree in computer science. And in
+2021 I became certified “AWS Solutions Architect - Associate”. The vast majority of my
+frontend work has been web. In the other layers, I have worked with SOAP, JSON, stored procedure,
+teletext/text-tv, phone systems and a number of other technologies in addition. My toolbox
+can be said to be both deep and wide.
 
-Mine 20 års erfaring som programmør har givet mig en bred vifte af færdigheder
-inden for softwareudvikling. I den første del af min karriere beskæftigede jeg
-mig primært med frontend og middleware, mens jeg i de seneste 8 år indtil
-hovedsageligt har arbejdet med infrastruktur - containere, netværk, Kubernetes
-kort sagt cloud, og altid efter IaC metoden. Selvfølgelig påvirket af
-opgavestillers ønsker, men test har næsten altid være en integreret del af mit
-arbejde - primært Unit og API. Kun i et enkelt projekt har jeg arbejdet efter
-TDD, men mit ønske er altid at indføre dem på et så tidligt tidspunkt som
-muligt, og jeg betragter dem som en del af dokumentationen. Udover min erfaring
-har jeg to uddannelser inden for faget: datamatiker og bachelor i datalogi. Og i
-2021 blev jeg certificeret "AWS Solutions Architect - Associate". Langt den
-overvejende del af mit frontend arbejde har været web. I de øvrige lag har jeg
-arbejdet med SOAP, JSON, stored procedure, teletext/text-tv, telefonsystemer
-samt en række andre teknologier derudover. Min værktøjskasse kan siges både at
-være dyb og bred.
 
-== Erfaring
+
+== Experience
 
 [cols=">20,2,50,>.^~", grid="none", frame="none"]
 |===
@@ -50,7 +48,6 @@ være dyb og bred.
 |
 s|Systemadministrator, Væksthuset
 |København S
-
 |===
 
 [cols=">20,2,50,>.^~", grid="none", frame="none"]
@@ -411,7 +408,7 @@ s| Livredning
 
 - Dansk – Modersmål
 - Engelsk – Tale og skrift
-- Norsk/Svensk/Jysk - Forstår
+- Norsk/Svensk - Forstår
 - Tysk - Folkeskole
 - Persisk - Begynder
 - Forth - Begynder
