@@ -93,27 +93,29 @@ s|SRE, COOP/Knowit
 //Ny blok
 |10.2020 - 02.2021
 |
-s|Intern konsulent, Cybercom
+s|konsulent, Cybercom
 |Frederiksberg
 
 |
 |
 2+a|
-- Infrastrukture research.
+- Infrastructure planning and deployment.
 - _AWS, CDK, Kubernetes, Python, TypeScript, Terraform_
 
-4+a| De følgende optegnelser fra 2015 til 2020 er den samme ansættelse "Det nye ejendomsvurderingssystem", men da indholdet er så varieret har jeg valgt at splittet ansættelsen op i projekter
+4+a| The following records from 2015 to 2020 are for the same employment, "The
+New Property Valuation System." However, since the content is quite varied, I
+have chosen to split the employment into projects.
 
 //Ny blok
 |03.2020 - 09.2020
 |
-s|Chefkonsulent, UFST
+s|Chief consultant, UFST
 |Frederiksberg
 
 |
 |
 2+a|
-- Implementering af shared services på Kubernetes.
+- Implementation of shared services on Kubernetes.
 - Jenkins/Jenkins pipelines
 - SonarQube
 - _GitOps(Atlantis), EKS, Kubernetes, Terraform, Jenkins, Groovy, SonarQube, Bash, Pair programming, Docker, CentOS, SAFe_
@@ -121,7 +123,7 @@ s|Chefkonsulent, UFST
 //Ny blok
 |03.2017 - 03.2020
 |
-s|Chefkonsulent, UFST
+s|Chief consultant, UFST
 |København/Frederiksberg
 
 |
@@ -134,7 +136,7 @@ s|Chefkonsulent, UFST
 //Ny blok
 |11.2016 - 02.2020
 |
-s|Chefkonsulent, Skatteministeriet
+s|Chief consultant, Skatteministeriet
 |København
 
 |
