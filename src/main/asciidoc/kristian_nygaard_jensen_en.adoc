@@ -136,7 +136,7 @@ s|Chief consultant, UFST
 //Ny blok
 |11.2016 - 02.2020
 |
-s|Chief consultant, Skatteministeriet
+s|Chief consultant, Ministry of Taxation
 |København
 
 |
@@ -148,7 +148,7 @@ s|Chief consultant, Skatteministeriet
 //Ny blok
 |08.2016 - 10.2016
 |
-s|Chefkonsulent, Skatteministeriet
+s|Chief consultant, Ministry of Taxation
 |København
 
 |
@@ -163,7 +163,7 @@ s|Chefkonsulent, Skatteministeriet
 //Ny blok
 |01.2015 - 01.2016
 |
-s|Chefkonsulent, Skatteministeriet
+s|Chief consultant, Ministry of Taxation
 |København
 
 |
@@ -175,13 +175,13 @@ s|Chefkonsulent, Skatteministeriet
 //Ny blok
 |08.2014 - 08.2015
 |
-s|Systemudvikler, youSee/TDC
+s|System developer, youSee/TDC
 |København
 
 |
 |
 2+a|
-- Produktkatalog med integration til salgsplatform
+- Product catalog with integration to sales platform.
 - _Clojure, JVM, WSDL, SOAP, BDD, TDD, Apache CXF, Jetty, Agile udvikling,_
 
 //Ny blok
@@ -193,21 +193,22 @@ s|Web developer, TV2
 |
 |
 2+a|
-- Implementering af hjemmeside i Drupal.
-- Integration til Teletext
-- Breakingbar
+Implementation of website in Drupal.
+
+- Integration to Teletext
+- Components: Twitter, Breaking bar, page layout
 - _PHP, JavaScript, Drupal, NodeJs, teletext, MySQL, HTML, CSS_
 
 //Ny blok
 |01.2008 - 10.2011
 |
-s|Web udvikler, MOC Systems
+s|Web developer, MOC Systems
 |København
 
 |
 |
 2+a|
-- Implementering af hjemmesider i TYPO3.
+- Implementation of websites in TYPO3.
 - SMK
 - Venstre
 - Red barnet
@@ -216,13 +217,14 @@ s|Web udvikler, MOC Systems
 //Ny blok
 |01.2006 - 01.2008
 |
-s|Web udvikler, Topdanmark
+s|Web developer, Topdanmark
 |Ballerup
 
 |
 |
 2+a|
-- Egenudviklet MVC system mellem TYPO3 og salgsplatform.
+- Egenudviklet MVC system
+- TYPO3 integration to sales platform.
 - _PHP, MySQL, TYPO3_
 
 //Ny blok
