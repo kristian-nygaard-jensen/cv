@@ -20,13 +20,21 @@ s|Kristian Nygaard Jensen
 |004552699443
 
 |Email:
-|knj.1978@yahoo.com
+|mail@zero-status-.net
 |===
 
 == Introduktion
 
 
-Mine 20 års erfaring som programmør har givet mig en bred vifte af færdigheder
+Mit liv som familiefar og friluftsmenneske har givet mig en bred vifte af
+erfaringer om såvel ansvar, samarbejde og problemlæsning. Jeg har oplevet mange
+uforudsete glæder og udfordringer og har lært at håndtere dem med et åbent sind.
+I min fritid nyder jeg at sejle, fiske og se fodbold med mine venner, min
+største glæde er dog mine børn.
+
+
+Mine 20 års erfaring som programmør har givet
+mig en bred vifte af færdigheder
 inden for softwareudvikling. I den første del af min karriere beskæftigede jeg
 mig primært med frontend og middleware, mens jeg i de seneste 8 år indtil
 hovedsageligt har arbejdet med infrastruktur - containere, netværk, Kubernetes
