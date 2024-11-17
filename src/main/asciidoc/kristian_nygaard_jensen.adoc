@@ -204,6 +204,7 @@ s|Web developer, TV2
 2+a|
 - Implementering af hjemmeside i Drupal.
 - Integration til Teletext
+- Integration til Twitter
 - Breakingbar
 - _PHP, JavaScript, Drupal, NodeJs, teletext, MySQL, HTML, CSS_
 
