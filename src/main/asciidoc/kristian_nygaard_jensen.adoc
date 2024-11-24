@@ -54,15 +54,6 @@ være dyb og bred.
 
 [cols=">20,2,50,>.^~", grid="none", frame="none"]
 |===
-|09.2024 - Nu
-|
-s|Systemadministrator, Væksthuset
-|København S
-
-|===
-
-[cols=">20,2,50,>.^~", grid="none", frame="none"]
-|===
 //Ny blok
 |02.2023 - 05.2023
 |
