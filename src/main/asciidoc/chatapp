@@ -1,15 +1,23 @@
-Application for Infrastructure DevOps Engineer
+= Application for Infrastructure DevOps Engineer
 
-Dear [Contact Person's Name],
+Dear Mikkel Helsted-Amskov,
 
 With over 20 years of experience in software development – the last eight years focused on infrastructure and cloud solutions – I am excited to apply for the position of Infrastructure DevOps Engineer at Trackman. Your passion for combining cutting-edge technology with sports and innovation aligns perfectly with my ambition to build robust and scalable systems, all grounded in a strong Linux foundation.
 
 As an AWS Certified Solutions Architect, I bring a wealth of experience in designing and implementing cloud infrastructure. My expertise includes a broad range of technologies and responsibilities, such as:
 
-    Kubernetes and container-based systems: Implementing shared services and orchestrating solutions for the Danish Ministry of Taxation and other complex organizations.
+== Kubernetes and container-based systems: Implementing shared services and orchestrating solutions for the Danish Ministry of Taxation and other complex organizations.
     Automation and Infrastructure-as-Code: Utilizing Terraform, Ansible, and Jenkins to enable efficient operations and continuous integration.
-    Virtualization: Two years of intensive work with KVM for on-premises cloud solutions.
-    IT Security and Logging Infrastructure: Deploying security and monitoring solutions with Rancher, Elastic Stack, and Terraform.
+
+== Virtualization 
+
+Two years of intensive work with KVM for on-premises cloud solutions.
+
+== IT Security and Logging Infrastructure
+
+Deploying security and monitoring solutions with Rancher, Cerebro, Elasticsearch / Kibana, Fluentd, and Terraform.
+
+== Motivation
 
 I excel at solving complex challenges and collaborating across cross-functional teams. My projects have included tasks ranging from setting up comprehensive logging infrastructures to automating deployment processes—always with a focus on reliability, scalability, and security.
 
@@ -20,4 +28,4 @@ I look forward to discussing how my skills and experience align with Trackman’
 Best regards,
 Kristian Nygaard Jensen
 Phone: +45 52699443
-Email: knj.1978@yahoo.com
+Email: mail@zero-status.net
