@@ -7,11 +7,11 @@
 |===
 |Name:
 s|Kristian Nygaard Jensen
-.7+a|image::https://bafybeifil2ubojrl2zztizffgv6qy6bsf6nfb7oc3afjf5sob2rc5di6ia.ipfs.w3s.link/hoved-circle-lille.png[align='right', pdfwidth="80"]
+.7+a|image::https://bafybeigzzzol2jfdipvcbqksnvoupnke5nzgjezvpd6ynxopii6x5kxv3u.ipfs.w3s.link/idag.png[align='right', pdfwidth="80"]
 
 
 |Address:
-|Bachersmindevej 11
+|Jægersborg Alle 139
 
 |Date of birth:
 |1978 08 21
@@ -20,7 +20,7 @@ s|Kristian Nygaard Jensen
 |004552699443
 
 |Email:
-|knj.1978@yahoo.com
+|mail@zero-status-.net
 |===
 
 == Introduction
