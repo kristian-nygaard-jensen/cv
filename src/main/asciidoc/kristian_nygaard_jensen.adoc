@@ -7,7 +7,7 @@
 |===
 |Navn:
 s|Kristian Nygaard Jensen
-.7+a|image::https://bafybeifil2ubojrl2zztizffgv6qy6bsf6nfb7oc3afjf5sob2rc5di6ia.ipfs.w3s.link/hoved-circle-lille.png[align='right', pdfwidth="80"]
+.7+a|image::https://bafybeigzzzol2jfdipvcbqksnvoupnke5nzgjezvpd6ynxopii6x5kxv3u.ipfs.w3s.link/idag.png[align='right', pdfwidth="80"]
 
 
 |Adresse:
