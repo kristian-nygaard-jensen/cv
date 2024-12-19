@@ -11,7 +11,7 @@ s|Kristian Nygaard Jensen
 
 
 |Adresse:
-|Bachersmindevej 11
+|Jægersborg Alle 139
 
 |Fødselsdato:
 |1978 08 21
@@ -36,7 +36,7 @@ største glæde er dog mine børn.
 Mine 20 års erfaring som programmør har givet
 mig en bred vifte af færdigheder
 inden for softwareudvikling. I den første del af min karriere beskæftigede jeg
-mig primært med frontend og middleware, mens jeg i de seneste 8 år indtil
+mig primært med frontend og middleware, mens jeg i de seneste 8 år
 hovedsageligt har arbejdet med infrastruktur - containere, netværk, Kubernetes
 kort sagt cloud, og altid efter IaC metoden. Selvfølgelig påvirket af
 opgavestillers ønsker, men test har næsten altid være en integreret del af mit
