@@ -1,0 +1,29 @@
+Kære Jobindex,
+
+Så jeres opslag på Jobindex og føler vi er et godt match. Jeg kan sætte hak ved
+stort set alle jeres ønsker, og jeres beskrivelse af virksomheden tiltaler mig
+meget.
+
+Hos TV2 havde jeg et tæt samarbejde med to UXere og er vandt til at arbejde i
+tværfunktionelle teams. Har lignende erfaringer fra UFST og YouSee/TDC.
+
+I stort set alle mine ansættelser har jeg arbejdet i både iterative flows("agil")
+og i problemløsnings/vedligeholdelses mode(kanban).
+
+Tæt samarbejde står mit hjerte nær. Hos UFST har jeg deltaget i pair
+programming og været "sponsor" for nyansatte.
+
+Jeg har en del erfaring med at skrive CV'er. Har brugt emacs-org, asciidoc,
+libre/ms/google office, pandoc samt en række cloud baserede løsninger. Og jeg
+vil finde stor glæde i at hjælpe andre med at finde et job.
+
+Har ingen erfaring med Vue.
+
+Som hyggeaktivitet holder jeg meget af bræt og kortspil samt diskutere teknik.
+
+Med venlig hilsen
+
+Kristian Nygaard Jensen
+
+P.S Hvis det bliver os, har jeg en ide til hvor vi kan starte. it-jobbank
+højreklik på en kategori gav et ufuldstændigt resultat.
