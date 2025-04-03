@@ -56,6 +56,14 @@ bred.
 //Ny blok
 |02.2023 - 05.2023
 |
+s|vikar, Passer børn
+|Tårnby, Nivå, Dragør
+
+[cols=">20,2,50,>.^~", grid="none", frame="none"]
+|===
+//Ny blok
+|02.2023 - 05.2023
+|
 s|DevOps, Jysk
 |Brabrand
 
