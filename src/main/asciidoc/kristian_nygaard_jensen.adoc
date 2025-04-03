@@ -49,6 +49,37 @@ SOAP, JSON, stored procedure, teletext/text-tv, telefonsystemer samt en række
 andre teknologier derudover. Min værktøjskasse kan siges både at være dyb og
 bred.
 
+== Uddannelser
+
+[cols=">14,2,70,>.^~", grid="none", frame="none"]
+|===
+
+
+|2002 - 2008
+|
+s|Bachelor i datalogi, RUC
+|Roskilde
+
+|2005
+|
+s| Udvidet førstehjælp
+| Vordingborg
+
+|2000 - 2002
+|
+s|Datamatiker, Niels Brock
+|København
+
+|1997 - 1999
+|
+s|Svagstrømsingeniør (ikke afsluttet), IHK
+|Ballerup
+
+|90 91 92
+|
+s| Livredning
+| Hørsholm
+
 == Erfaring
 
 [cols=">20,2,50,>.^~", grid="none", frame="none"]
@@ -316,40 +347,6 @@ s|Studiejob, OMD Denmark
 // - __
 
 |===
-
-
-
-
-== Uddannelser
-
-[cols=">14,2,70,>.^~", grid="none", frame="none"]
-|===
-
-
-|2002 - 2008
-|
-s|Bachelor i datalogi, RUC
-|Roskilde
-
-|2005
-|
-s| Udvidet førstehjælp
-| Vordingborg
-
-|2000 - 2002
-|
-s|Datamatiker, Niels Brock
-|København
-
-|1997 - 1999
-|
-s|Svagstrømsingeniør (ikke afsluttet), IHK
-|Ballerup
-
-|90 91 92
-|
-s| Livredning
-| Hørsholm
 
 // |
 // |
