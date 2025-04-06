@@ -84,6 +84,11 @@ s| Livredning
 
 [cols=">20,2,50,>.^~", grid="none", frame="none"]
 |===
+
+I gang med skrive en bog
+
+https://w3s.link/ipfs/bafybeighsu4akb4wbu4tdi3wa3p24nvuvcdp4t7owmjlp7pmdsxdiav7ny
+
 //Ny blok
 |02.2023 - 05.2023
 |
