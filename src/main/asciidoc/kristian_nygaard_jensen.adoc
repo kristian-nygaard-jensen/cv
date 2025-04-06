@@ -84,6 +84,9 @@ s| Livredning
 
 [cols=">20,2,50,>.^~", grid="none", frame="none"]
 |===
+
+I gang med skrive en bog
+
 //Ny blok
 |02.2023 - 05.2023
 |
