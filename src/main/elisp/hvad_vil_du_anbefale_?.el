@@ -19,6 +19,8 @@
 ;;
 ;;; Code:
 
+; Stil dit i et af tidsfelterne og tryk den af
+(C-c_^_) ; a eller A
 
 
 (provide 'hvad_vil_du_anbefale_?)

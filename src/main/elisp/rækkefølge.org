@@ -2,5 +2,5 @@
 
 | Tid |  beskrivelse |
 |---- *--------------|
-| I år| CERN certificat|
 | Tidligere| Jysk|
+| I år| CERN certificat|
