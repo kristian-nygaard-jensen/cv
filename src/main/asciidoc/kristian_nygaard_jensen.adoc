@@ -88,18 +88,7 @@ s| Livredning
 
 == Erfaring
 
-[cols=">20,2,50,>.^~", grid="none", frame="none"]
-|===
-
-I gang med skrive en bog
-
-https://w3s.link/ipfs/bafybeibpmq4b3kjsjvrchc4bcxyibuz3gsr6cyhbassnhjylqew527yv6u
-
-//Ny blok
-|02.2023 - 05.2023
-|
-s|vikar, Passer børn
-|Tårnby, Nivå, Dragør
+Kom mig over en skilsmisse
 
 [cols=">20,2,50,>.^~", grid="none", frame="none"]
 |===
