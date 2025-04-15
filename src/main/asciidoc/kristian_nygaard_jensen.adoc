@@ -88,7 +88,7 @@ s| Livredning
 
 == Erfaring
 
-Kom mig over en skilsmisse
+Kom mig over skilsmissen
 
 [cols=">20,2,50,>.^~", grid="none", frame="none"]
 |===
