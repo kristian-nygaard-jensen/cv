@@ -88,6 +88,7 @@ s| Livredning
 
 == Erfaring
 
+Kassemester i en relativt ny klub
 
 [cols=">20,2,50,>.^~", grid="none", frame="none"]
 |===
